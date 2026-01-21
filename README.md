@@ -41,11 +41,12 @@ This project focuses on building clean user flows, simple interactions, and a sm
   <img width="3378" height="1625" alt="cart" src="https://github.com/user-attachments/assets/5d107390-0e71-4762-b010-25d350bcee41" />
   
 - Empty States
-  
-  <img width="506" height="1007" alt="logout" src="https://github.com/user-attachments/assets/a259de2c-0910-490d-b1f2-a893263f21d6" /> <img width="562" height="1062" alt="internet connection" src="https://github.com/user-attachments/assets/8e7f7e7f-564f-4205-b995-e47ff9e21126" />
-  
-  <img width="544" height="832" alt="empty address" src="https://github.com/user-attachments/assets/5d5c104d-3bcc-4378-90ed-ebeabd40567c" />
-  <img width="497" height="1061" alt="cart empty" src="https://github.com/user-attachments/assets/e30416f0-b91f-45ae-b2bd-d4b91ce9180c" />
+  <p align="center">
+    <img width="250" height="1007" alt="logout" src="https://github.com/user-attachments/assets/a259de2c-0910-490d-b1f2-a893263f21d6" />
+    <img width="250" height="1062" alt="internet connection" src="https://github.com/user-attachments/assets/8e7f7e7f-564f-4205-b995-e47ff9e21126" />
+    <img width="250" height="832" alt="empty address" src="https://github.com/user-attachments/assets/5d5c104d-3bcc-4378-90ed-ebeabd40567c" />
+    <img width="250" height="1061" alt="cart empty" src="https://github.com/user-attachments/assets/e30416f0-b91f-45ae-b2bd-d4b91ce9180c" />
+  </p>
   
 - Order Success
   
@@ -63,11 +64,13 @@ This project focuses on building clean user flows, simple interactions, and a sm
 Designed end-to-end user flows to map complete e-commerce journeys.
 
 - Onboarding Flow
-  
+
   <img width="2681" height="956" alt="onboarding" src="https://github.com/user-attachments/assets/6abb0b3e-0d07-4f62-a3e2-66b50cac01e8" />
+  
 - Login / Signup Flow
   
   <img width="1934" height="1188" alt="Auth flow" src="https://github.com/user-attachments/assets/ed2496ed-55cf-4fcf-a68a-72699a414475" />
+  
 - Shopping Flow
   
   <img width="3559" height="1196" alt="Shopping flow" src="https://github.com/user-attachments/assets/edd294a1-cd36-4047-83a8-a7a47e58d5f9" />
@@ -81,7 +84,7 @@ Designed end-to-end user flows to map complete e-commerce journeys.
   <img width="1934" height="1186" alt="profile flow" src="https://github.com/user-attachments/assets/1236f474-a964-403c-a954-b496a4593fb2" />
 
 ## Figma Prototype
-  https://www.figma.com/design/ooPph6ByZIvtpNWUbgxgoX/TrenNex?node-id=0-1&t=R8oPaSYermY2QGZ0-1
+   https://www.figma.com/proto/ooPph6ByZIvtpNWUbgxgoX/TrenNex?node-id=1744-2730&t=0OFQuRvefMHHcnum-1
   
 ## Next Steps
 - Convert UI to Android using XML Kotlin
