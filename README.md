@@ -23,17 +23,20 @@ This project focuses on building clean user flows, simple interactions, and a sm
 
 ## 📱 Screens Included
 - Onboarding & Authentication
+- 
   <img width="3054" height="950" alt="onboarding" src="https://github.com/user-attachments/assets/ea7d94d2-6c12-4492-8bfb-f0c2f3d0f09f" />
   
   <img width="1205" height="900" alt="authentication" src="https://github.com/user-attachments/assets/f031bd05-0424-4ac6-9ca9-1cf0721e6e6c" />
   
 - Home & Categories
+- 
   <p align="center">
     <img width="501" height="900" alt="Home (1)" src="https://github.com/user-attachments/assets/42470b3e-8a61-4adc-98e5-fd5ea4c1c244" />
     <img width="2565" height="900" alt="categories" src="https://github.com/user-attachments/assets/121a4e85-559e-4844-9d51-eb93c9c50764" />
   </p>
   
 - Product Details
+- 
   <p align= "center">
     <img width="3359" height="1000" alt="product details" src="https://github.com/user-attachments/assets/8e59409b-97f6-4e70-a256-9d9f7eb88947" />
   </p>
@@ -43,6 +46,7 @@ This project focuses on building clean user flows, simple interactions, and a sm
   <img width="3378" height="1000" alt="cart" src="https://github.com/user-attachments/assets/5d107390-0e71-4762-b010-25d350bcee41" />
   
 - Empty States
+  
   <p align="center">
     
     <img width="200" height="800" alt="logout" src="https://github.com/user-attachments/assets/a259de2c-0910-490d-b1f2-a893263f21d6" />
@@ -55,6 +59,7 @@ This project focuses on building clean user flows, simple interactions, and a sm
   </p>
   
 - Order Success
+  
   <p align= "center">
     
     <img width="700" height="900" alt="order success" src="https://github.com/user-attachments/assets/7d7ca4c9-51cf-4ee3-b6b7-7a144c9cf33b" />
@@ -65,6 +70,7 @@ This project focuses on building clean user flows, simple interactions, and a sm
   </p>
   
 - Profile & Settings
+  
   <p align= "center">
      <img width="503" height="700" alt="profile (1)" src="https://github.com/user-attachments/assets/2efcccba-6b44-4d93-97d0-3f640d7bf071" />
   </p>
