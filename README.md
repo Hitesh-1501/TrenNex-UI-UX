@@ -42,10 +42,10 @@ This project focuses on building clean user flows, simple interactions, and a sm
   
 - Empty States
   <p align="center">
-    <img width="250" height="1007" alt="logout" src="https://github.com/user-attachments/assets/a259de2c-0910-490d-b1f2-a893263f21d6" />
-    <img width="250" height="1062" alt="internet connection" src="https://github.com/user-attachments/assets/8e7f7e7f-564f-4205-b995-e47ff9e21126" />
-    <img width="250" height="832" alt="empty address" src="https://github.com/user-attachments/assets/5d5c104d-3bcc-4378-90ed-ebeabd40567c" />
-    <img width="250" height="1061" alt="cart empty" src="https://github.com/user-attachments/assets/e30416f0-b91f-45ae-b2bd-d4b91ce9180c" />
+    <img width="200" height="800" alt="logout" src="https://github.com/user-attachments/assets/a259de2c-0910-490d-b1f2-a893263f21d6" />
+    <img width="200" height="800" alt="internet connection" src="https://github.com/user-attachments/assets/8e7f7e7f-564f-4205-b995-e47ff9e21126" />
+    <img width="200" height="800" alt="empty address" src="https://github.com/user-attachments/assets/5d5c104d-3bcc-4378-90ed-ebeabd40567c" />
+    <img width="200" height="800" alt="cart empty" src="https://github.com/user-attachments/assets/e30416f0-b91f-45ae-b2bd-d4b91ce9180c" />
   </p>
   
 - Order Success
@@ -83,8 +83,12 @@ Designed end-to-end user flows to map complete e-commerce journeys.
 
   <img width="1934" height="1186" alt="profile flow" src="https://github.com/user-attachments/assets/1236f474-a964-403c-a954-b496a4593fb2" />
 
+---
+
 ## Figma Prototype
    https://www.figma.com/proto/ooPph6ByZIvtpNWUbgxgoX/TrenNex?node-id=1744-2730&t=0OFQuRvefMHHcnum-1
+
+---
   
 ## Next Steps
 - Convert UI to Android using XML Kotlin
