@@ -23,7 +23,8 @@ This project focuses on building clean user flows, simple interactions, and a sm
 
 ## 📱 Screens Included
 - Onboarding & Authentication
-  <img width="3054" height="900" alt="onboarding" src="https://github.com/user-attachments/assets/ea7d94d2-6c12-4492-8bfb-f0c2f3d0f09f" />
+  <img width="3054" height="950" alt="onboarding" src="https://github.com/user-attachments/assets/ea7d94d2-6c12-4492-8bfb-f0c2f3d0f09f" />
+  
   <img width="1205" height="900" alt="authentication" src="https://github.com/user-attachments/assets/f031bd05-0424-4ac6-9ca9-1cf0721e6e6c" />
   
 - Home & Categories
@@ -33,7 +34,9 @@ This project focuses on building clean user flows, simple interactions, and a sm
   </p>
   
 - Product Details
-  <img width="3359" height="1000" alt="product details" src="https://github.com/user-attachments/assets/8e59409b-97f6-4e70-a256-9d9f7eb88947" />
+  <p align= "center">
+    <img width="3359" height="1000" alt="product details" src="https://github.com/user-attachments/assets/8e59409b-97f6-4e70-a256-9d9f7eb88947" />
+  </p>
   
 - Cart & Checkout
   
@@ -41,21 +44,30 @@ This project focuses on building clean user flows, simple interactions, and a sm
   
 - Empty States
   <p align="center">
+    
     <img width="200" height="800" alt="logout" src="https://github.com/user-attachments/assets/a259de2c-0910-490d-b1f2-a893263f21d6" />
+    
     <img width="200" height="800" alt="internet connection" src="https://github.com/user-attachments/assets/8e7f7e7f-564f-4205-b995-e47ff9e21126" />
+    
     <img width="200" height="800" alt="empty address" src="https://github.com/user-attachments/assets/5d5c104d-3bcc-4378-90ed-ebeabd40567c" />
+    
     <img width="200" height="800" alt="cart empty" src="https://github.com/user-attachments/assets/e30416f0-b91f-45ae-b2bd-d4b91ce9180c" />
   </p>
   
 - Order Success
-  
-  <img width="800" height="900" alt="order success" src="https://github.com/user-attachments/assets/7d7ca4c9-51cf-4ee3-b6b7-7a144c9cf33b" />
-  <img width="4" height="900" alt="order section" src="https://github.com/user-attachments/assets/172400c8-3fb5-4679-b341-fe2f2533c911" />
-  <img width="493" height="900" alt="order details" src="https://github.com/user-attachments/assets/cd62ae61-0821-43eb-b669-81a1a8cec181" />
+  <p align= "center">
+    
+    <img width="700" height="900" alt="order success" src="https://github.com/user-attachments/assets/7d7ca4c9-51cf-4ee3-b6b7-7a144c9cf33b" />
+    
+    <img width="475" height="900" alt="order section" src="https://github.com/user-attachments/assets/172400c8-3fb5-4679-b341-fe2f2533c911" />
+    
+    <img width="493" height="900" alt="order details" src="https://github.com/user-attachments/assets/cd62ae61-0821-43eb-b669-81a1a8cec181" />
+  </p>
   
 - Profile & Settings
-  
-  <img width="503" height="800" alt="profile (1)" src="https://github.com/user-attachments/assets/2efcccba-6b44-4d93-97d0-3f640d7bf071" />
+  <p align= "center">
+     <img width="503" height="700" alt="profile (1)" src="https://github.com/user-attachments/assets/2efcccba-6b44-4d93-97d0-3f640d7bf071" />
+  </p>
 
 ---
 
