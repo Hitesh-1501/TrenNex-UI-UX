@@ -23,22 +23,21 @@ This project focuses on building clean user flows, simple interactions, and a sm
 
 ## 📱 Screens Included
 - Onboarding & Authentication
-  
-  <img width="3054" height="1149" alt="onboarding" src="https://github.com/user-attachments/assets/ea7d94d2-6c12-4492-8bfb-f0c2f3d0f09f" />
-  <img width="1205" height="1104" alt="authentication" src="https://github.com/user-attachments/assets/f031bd05-0424-4ac6-9ca9-1cf0721e6e6c" />
+  <img width="3054" height="900" alt="onboarding" src="https://github.com/user-attachments/assets/ea7d94d2-6c12-4492-8bfb-f0c2f3d0f09f" />
+  <img width="1205" height="900" alt="authentication" src="https://github.com/user-attachments/assets/f031bd05-0424-4ac6-9ca9-1cf0721e6e6c" />
   
 - Home & Categories
-  
-  <img width="501" height="1044" alt="Home (1)" src="https://github.com/user-attachments/assets/42470b3e-8a61-4adc-98e5-fd5ea4c1c244" />
-  <img width="2565" height="1130" alt="categories" src="https://github.com/user-attachments/assets/121a4e85-559e-4844-9d51-eb93c9c50764" />
+  <p align="center">
+    <img width="501" height="800" alt="Home (1)" src="https://github.com/user-attachments/assets/42470b3e-8a61-4adc-98e5-fd5ea4c1c244" />
+    <img width="2565" height="900" alt="categories" src="https://github.com/user-attachments/assets/121a4e85-559e-4844-9d51-eb93c9c50764" />
+  </p>
   
 - Product Details
-  
-  <img width="3359" height="1526" alt="product details" src="https://github.com/user-attachments/assets/8e59409b-97f6-4e70-a256-9d9f7eb88947" />
+  <img width="3359" height="1000" alt="product details" src="https://github.com/user-attachments/assets/8e59409b-97f6-4e70-a256-9d9f7eb88947" />
   
 - Cart & Checkout
   
-  <img width="3378" height="1625" alt="cart" src="https://github.com/user-attachments/assets/5d107390-0e71-4762-b010-25d350bcee41" />
+  <img width="3378" height="1000" alt="cart" src="https://github.com/user-attachments/assets/5d107390-0e71-4762-b010-25d350bcee41" />
   
 - Empty States
   <p align="center">
@@ -50,13 +49,13 @@ This project focuses on building clean user flows, simple interactions, and a sm
   
 - Order Success
   
-  <img width="1066" height="1109" alt="order success" src="https://github.com/user-attachments/assets/7d7ca4c9-51cf-4ee3-b6b7-7a144c9cf33b" />
-  <img width="475" height="1047" alt="order section" src="https://github.com/user-attachments/assets/172400c8-3fb5-4679-b341-fe2f2533c911" />
-  <img width="493" height="1049" alt="order details" src="https://github.com/user-attachments/assets/cd62ae61-0821-43eb-b669-81a1a8cec181" />
+  <img width="800" height="900" alt="order success" src="https://github.com/user-attachments/assets/7d7ca4c9-51cf-4ee3-b6b7-7a144c9cf33b" />
+  <img width="4" height="900" alt="order section" src="https://github.com/user-attachments/assets/172400c8-3fb5-4679-b341-fe2f2533c911" />
+  <img width="493" height="900" alt="order details" src="https://github.com/user-attachments/assets/cd62ae61-0821-43eb-b669-81a1a8cec181" />
   
 - Profile & Settings
   
-  <img width="503" height="1020" alt="profile (1)" src="https://github.com/user-attachments/assets/2efcccba-6b44-4d93-97d0-3f640d7bf071" />
+  <img width="503" height="800" alt="profile (1)" src="https://github.com/user-attachments/assets/2efcccba-6b44-4d93-97d0-3f640d7bf071" />
 
 ---
 
