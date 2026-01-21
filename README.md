@@ -64,11 +64,11 @@ This project focuses on building clean user flows, simple interactions, and a sm
   
   <p align= "center">
     
-    <img width="700" height="900" alt="order success" src="https://github.com/user-attachments/assets/7d7ca4c9-51cf-4ee3-b6b7-7a144c9cf33b" />
+    <img width="500" height="900" alt="order success" src="https://github.com/user-attachments/assets/7d7ca4c9-51cf-4ee3-b6b7-7a144c9cf33b" />
     
-    <img width="475" height="900" alt="order section" src="https://github.com/user-attachments/assets/172400c8-3fb5-4679-b341-fe2f2533c911" />
+    <img width="300" height="900" alt="order section" src="https://github.com/user-attachments/assets/172400c8-3fb5-4679-b341-fe2f2533c911" />
     
-    <img width="493" height="900" alt="order details" src="https://github.com/user-attachments/assets/cd62ae61-0821-43eb-b669-81a1a8cec181" />
+    <img width="300" height="900" alt="order details" src="https://github.com/user-attachments/assets/cd62ae61-0821-43eb-b669-81a1a8cec181" />
   </p>
   
 - Profile & Settings
