@@ -28,7 +28,7 @@ This project focuses on building clean user flows, simple interactions, and a sm
   
 - Home & Categories
   <p align="center">
-    <img width="501" height="800" alt="Home (1)" src="https://github.com/user-attachments/assets/42470b3e-8a61-4adc-98e5-fd5ea4c1c244" />
+    <img width="501" height="900" alt="Home (1)" src="https://github.com/user-attachments/assets/42470b3e-8a61-4adc-98e5-fd5ea4c1c244" />
     <img width="2565" height="900" alt="categories" src="https://github.com/user-attachments/assets/121a4e85-559e-4844-9d51-eb93c9c50764" />
   </p>
   
