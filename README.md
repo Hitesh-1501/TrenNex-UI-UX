@@ -53,13 +53,9 @@ This project focuses on building clean user flows, simple interactions, and a sm
 - Empty States
   
   <p align="center">
-    
     <img width="200" height="800" alt="logout" src="https://github.com/user-attachments/assets/a259de2c-0910-490d-b1f2-a893263f21d6" />
-    
     <img width="200" height="800" alt="internet connection" src="https://github.com/user-attachments/assets/8e7f7e7f-564f-4205-b995-e47ff9e21126" />
-    
     <img width="200" height="800" alt="empty address" src="https://github.com/user-attachments/assets/5d5c104d-3bcc-4378-90ed-ebeabd40567c" />
-    
     <img width="200" height="800" alt="cart empty" src="https://github.com/user-attachments/assets/e30416f0-b91f-45ae-b2bd-d4b91ce9180c" />
     
   </p>
