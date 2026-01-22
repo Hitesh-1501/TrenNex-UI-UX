@@ -107,7 +107,7 @@ Designed end-to-end user flows to map complete e-commerce journeys.
 ---
 
 ## Figma Prototype
-   https://www.figma.com/proto/ooPph6ByZIvtpNWUbgxgoX/TrenNex?node-id=1744-2730&t=0OFQuRvefMHHcnum-1
+  https://www.figma.com/proto/ooPph6ByZIvtpNWUbgxgoX/TrenNex?node-id=1744-2730&t=2lG0mcWc73erQEI4-1
 
 ---
   
